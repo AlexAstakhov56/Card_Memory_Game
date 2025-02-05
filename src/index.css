@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(4, 219, 221, 1) 0%,
+    rgba(177, 4, 215, 1) 100%
+  );
+}
+
+.container {
+  max-width: 1300px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
